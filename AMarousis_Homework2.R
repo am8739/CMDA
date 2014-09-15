@@ -54,4 +54,5 @@ summary(dtrain$COW)
 #summary of category of work. It gives the count for each type.
 
 #Problem 5
+FinalProjectcsv<- read.table('FinalProject.csv', sep=',', header=T)
 
